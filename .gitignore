@@ -1,0 +1,9 @@
+node_modules
+archived/**
+# node_modules/.cache
+# node_modules/.bin
+cypress/screenshots
+cypress/videos
+cypress/results
+cypress/reports
+.DS_Store
